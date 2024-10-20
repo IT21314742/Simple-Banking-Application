@@ -21,4 +21,5 @@ while is_running:
 
     choice = input("Enter your choice (1-4): ")
 
-    if choice
+    if choice == '1':
+        show_balance()
