@@ -19,4 +19,4 @@ while is_running:
     print("3. Withdraw")
     print("4. Exit")
 
-    choice = input("Enter your")
+    choice = input("Enter your choice (1-4): ")
