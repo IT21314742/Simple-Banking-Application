@@ -17,3 +17,4 @@ while is_running:
     print("1. Show Balance")
     print("2. Deposit")
     print("3. Withdraw")
+    print
