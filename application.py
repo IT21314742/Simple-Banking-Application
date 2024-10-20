@@ -14,4 +14,4 @@ is_running = True
 
 while is_running:
     print("Banking Application")
-    print()
+    print("1. Show Balance")
