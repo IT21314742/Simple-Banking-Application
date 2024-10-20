@@ -12,3 +12,4 @@ def withdraw():
 balance = 0
 is_running = True
 
+while
