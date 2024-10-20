@@ -16,3 +16,4 @@ while is_running:
     print("Banking Application")
     print("1. Show Balance")
     print("2. Deposit")
+    print
