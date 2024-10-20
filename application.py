@@ -10,4 +10,4 @@ def withdraw():
     pass
 
 balance = 0
-is_running
+is_running = 
