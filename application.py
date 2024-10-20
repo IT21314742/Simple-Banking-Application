@@ -23,4 +23,4 @@ while is_running:
 
     if choice == '1':
         show_balance()
-    elif choice == 
+    elif choice == '2'
