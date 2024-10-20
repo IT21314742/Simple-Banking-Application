@@ -13,4 +13,4 @@ balance = 0
 is_running = True
 
 while is_running:
-    print
+    print("Banking Application")
