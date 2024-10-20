@@ -3,3 +3,4 @@
 def show_balance():
     pass
 
+def deposit()
