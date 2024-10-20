@@ -21,4 +21,4 @@ while is_running:
 
     choice = input("Enter your choice (1-4): ")
 
-    
+    if choice
