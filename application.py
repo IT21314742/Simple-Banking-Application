@@ -25,4 +25,4 @@ while is_running:
         show_balance()
     elif choice == '2':
         deposit()
-    elif choice == '3'
+    elif choice == '3':
