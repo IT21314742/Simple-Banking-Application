@@ -30,5 +30,5 @@ while is_running:
     elif choice == '4':
         is_running = False
     else:
-        print(that is not a valid)
+        print(that is not a valid project)
     
