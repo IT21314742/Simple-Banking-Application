@@ -47,5 +47,4 @@ while is_running:
 
 
 
-            
-    
+
