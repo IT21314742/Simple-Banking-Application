@@ -33,4 +33,3 @@ while is_running:
         print("that is not a valid choice")
 
 
-
