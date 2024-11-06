@@ -4,7 +4,7 @@ def show_balance():
     print(f"Your balance is ${balance:.2f}")
 
 def deposit():
-    amount = input("Enter an a")
+    amount = input("Enter an am")
 
 def withdraw():
     pass
