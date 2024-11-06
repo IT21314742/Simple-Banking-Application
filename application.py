@@ -1,7 +1,7 @@
 #Python simple Banking Application
 
 def show_balance():
-    print(f"Your ")
+    print(f"Your balance")
 
 def deposit():
     pass
