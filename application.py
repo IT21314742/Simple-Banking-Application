@@ -32,4 +32,4 @@ while is_running:
     else:
         print("that is not a valid choice")
 
-print(thank you! have a nice d)
+print(thank you! have a nice da)
