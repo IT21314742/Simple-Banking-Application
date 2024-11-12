@@ -20,7 +20,7 @@ def withdraw():
     elif amount < 0:
         print("Amount must be greater than 0")
     elif:
-        return 
+        return amount
 
 balance = 0
 is_running = True
