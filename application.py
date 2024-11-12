@@ -15,7 +15,7 @@ def deposit():
 def withdraw():
     amount = float(input("Enter amount to be withdrawn: "))
 
-    if amount >
+    if amount > balance
 
 balance = 0
 is_running = True
