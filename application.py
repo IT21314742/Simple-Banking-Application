@@ -9,7 +9,7 @@ def deposit():
     if amount < 0:
         print("That's not a valid amount")
     else:
-        return
+        return 
 
 def withdraw():
     pass
