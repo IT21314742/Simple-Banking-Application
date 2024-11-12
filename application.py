@@ -19,7 +19,7 @@ def withdraw():
         return 0
     elif amount < 0:
         print("Amount must be greater than 0")
-        return 
+        return 0
     else:
         return amount
 
