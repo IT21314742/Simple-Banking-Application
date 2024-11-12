@@ -17,7 +17,7 @@ def withdraw():
 
     if amount > balance:
         print("insufficient funds")
-    elif
+    elif amount
 
 balance = 0
 is_running = True
