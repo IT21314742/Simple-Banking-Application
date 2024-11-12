@@ -16,7 +16,7 @@ def withdraw():
     amount = float(input("Enter amount to be withdrawn: "))
 
     if amount > balance:
-        print("insufficient")
+        print("insufficient fund")
 
 balance = 0
 is_running = True
