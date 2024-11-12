@@ -7,7 +7,7 @@ def deposit():
     amount = input("Enter an amount to be deposited: ")
 
     if amount < 0:
-        print("That's not a valid")
+        print("That's not a valid amount")
 
 def withdraw():
     pass
