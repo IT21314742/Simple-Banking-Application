@@ -13,7 +13,7 @@ def deposit():
         return amount
 
 def withdraw():
-    amount = input("Enter amount to be")
+    amount = input("Enter amount to be withdrow")
 
 balance = 0
 is_running = True
