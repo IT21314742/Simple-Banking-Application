@@ -6,7 +6,7 @@ def show_balance():
 def deposit():
     amount = input("Enter an amount to be deposited: ")
 
-    if amount <
+    if amount < 0:
 
 def withdraw():
     pass
