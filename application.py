@@ -29,7 +29,7 @@ while is_running:
     if choice == '1':
         show_balance()
     elif choice == '2':
-        balance +deposit()
+        balance += deposit()
     elif choice == '3':
         withdraw()
     elif choice == '4':
