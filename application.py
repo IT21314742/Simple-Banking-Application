@@ -48,4 +48,3 @@ while is_running:
 
 print("thank you! Have a nice day!")
 
-
