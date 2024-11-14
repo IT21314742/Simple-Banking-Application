@@ -23,7 +23,7 @@ def withdraw():
     else:
         return amount
 
-def
+def main
 balance = 0
 is_running = True
 
