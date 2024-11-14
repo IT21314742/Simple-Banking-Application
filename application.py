@@ -24,27 +24,27 @@ def withdraw():
         return amount
 
 def main():
-balance = 0
-is_running = True
+    balance = 0
+    is_running = True
 
-while is_running:
-    print("Banking Application")
-    print("1. Show Balance")
-    print("2. Deposit")
-    print("3. Withdraw")
-    print("4. Exit")
+    while is_running:
+        print("Banking Application")
+        print("1. Show Balance")
+        print("2. Deposit")
+        print("3. Withdraw")
+        print("4. Exit")
 
-    choice = input("Enter your choice (1-4): ")
+        choice = input("Enter your choice (1-4): ")
 
-    if choice == '1':
-        show_balance()
-    elif choice == '2':
-        balance += deposit()
-    elif choice == '3':
-        balance -= withdraw()
-    elif choice == '4':
-        is_running = False
-    else:
-        print("that is not a valid choice")
+        if choice == '1':
+            show_balance()
+        elif choice == '2':
+            balance += deposit()
+        elif choice == '3':
+            balance -= withdraw()
+        elif choice == '4':
+            is_running = False
+        else:
+            print("that is not a valid choice")
 
-print("thank you! Have a nice day!")
+    print("thank you! Have a nice day!")
