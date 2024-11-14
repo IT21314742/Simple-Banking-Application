@@ -1,6 +1,6 @@
 #Python simple Banking Application
 
-def show_balance():
+def show_balance(balance):
     print(f"Your balance is ${balance:.2f}")
 
 def deposit():
