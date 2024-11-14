@@ -50,4 +50,4 @@ def main():
     print("thank you! Have a nice day!")
 
 
-if __name__ = '__main__'
+if __name__ = '__main__':
