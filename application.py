@@ -29,7 +29,7 @@ def main():
 
     while is_running:
         print ("******************")
-        print ("**************")
+        print ("*************")
         print("Banking Application")
         print("1. Show Balance")
         print("2. Deposit")
