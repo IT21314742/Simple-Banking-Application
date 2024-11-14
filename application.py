@@ -41,7 +41,7 @@ def main():
         elif choice == '2':
             balance += deposit()
         elif choice == '3':
-            balance -= withdraw()
+            balance -= withdraw(balance)
         elif choice == '4':
             is_running = False
         else:
