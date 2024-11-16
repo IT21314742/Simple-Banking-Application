@@ -28,6 +28,7 @@ def withdraw(balance):
     elif amount < 0:
         print ("******************")
         print("Amount must be greater than 0")
+        print ("******************")
         return 0
     else:
         return amount
