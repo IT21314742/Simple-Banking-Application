@@ -49,9 +49,13 @@ def main():
         elif choice == '4':
             is_running = False
         else:
+            print ("******************")
             print("that is not a valid choice")
+            print ("******************")
 
+    print ("******************")
     print("thank you! Have a nice day!")
+    print ("******************")
 
 
 if __name__ == '__main__':
