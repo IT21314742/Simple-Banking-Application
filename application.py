@@ -11,6 +11,7 @@ def deposit():
     print ("******************")
 
     if amount < 0:
+        print ("******************")
         print("That's not a valid amount")
         return 0
     else:
