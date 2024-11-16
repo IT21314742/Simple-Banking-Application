@@ -6,6 +6,7 @@ def show_balance(balance):
     print ("******************")
 
 def deposit():
+    print ("******************")
     amount = input("Enter an amount to be deposited: ")
 
     if amount < 0:
