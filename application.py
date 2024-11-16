@@ -30,12 +30,13 @@ def main():
     while is_running:
         print ("******************")
         print ("    Banking Program     ")
-        
+        print ("******************")
         print("Banking Application")
         print("1. Show Balance")
         print("2. Deposit")
         print("3. Withdraw")
         print("4. Exit")
+        print ("******************")
 
         choice = input("Enter your choice (1-4): ")
 
